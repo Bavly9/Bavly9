@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bavly9
-- 👀 I’m interested in Electronics, PCB design, programming.
-- 🌱 I’m currently learning theology, physics.
+- 👀 I’m interested in Electronics, PCB design, programming and physics.
+- 🌱 I’m currently learning life.
 - 💞️ I’m looking to collaborate on emebedded systems projects.
 - 📫 How to reach me ...
 
